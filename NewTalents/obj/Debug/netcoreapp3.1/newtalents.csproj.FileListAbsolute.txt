@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.exe
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.deps.json
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.runtimeconfig.json
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.dll
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\bin\Debug\netcoreapp3.1\newtalents.pdb
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.AssemblyInfo.cs
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.dll
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.pdb
+C:\Users\lucas\Desktop\.Net\TestesTDD\NewTalents\obj\Debug\netcoreapp3.1\newtalents.genruntimeconfig.cache
